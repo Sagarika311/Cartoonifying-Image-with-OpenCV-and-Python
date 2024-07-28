@@ -13,7 +13,7 @@ Import the following modules:
 6. OS: For OS interaction. Here, to read the path and save images to that path.</br>
 
 # Step 2: Building a File Box to choose a particular file.
-In this step,the main window of application is built, where the buttons, labels, and images will reside. Also give it a title by using the title() function.
+In this step, the main window of application is built, where the buttons, labels, and images will reside. Also give it a title by using the title() function.
 
 Explanation:
 fileopenbox() is the method in easyGUI module which returns the path of the chosen file as a string. It opens the file box, i.e the pop-up box to choose the file from the device, which opens every time while running the code.
